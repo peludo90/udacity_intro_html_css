@@ -1,0 +1,17 @@
+.description{
+    margin: 6px;
+    box-sizing: border-box;
+}
+
+.screenshot{
+    margin: 6px
+}
+.app {
+    display: -webkit-flex;
+    display: flex;
+}
+
+.title {
+    background: #33BEBE
+
+}
